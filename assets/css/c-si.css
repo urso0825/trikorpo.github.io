@@ -1,0 +1,35 @@
+---
+---
+
+@import "style.css";
+
+header ul {
+  list-style: none;
+  height: auto;
+  padding: 0;
+  background:transparent;
+  border-radius: none;
+  border: none;
+  width: auto;
+}
+
+header ul a {
+  line-height: 1;
+  font-size: 14px;
+  color: #069;
+  display: block;
+  text-align: left;
+  padding-top: 6px;
+  height: 24px;
+}
+
+
+header li{
+  float:none;
+  width:auto;
+  border-right: none;
+}
+
+header ul li + li + li{
+  width: auto;
+}
