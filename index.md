@@ -6,7 +6,7 @@
 
 *— 老子，《道德经》*
 
-- **Unu Naskis du**
+- **Unu naskis du**
 - **Du naskis tri**
 - **Kaj tri naskis ĉion**
 
