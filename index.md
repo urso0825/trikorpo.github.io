@@ -4,13 +4,13 @@
 - **二生三**    
 - **三生万物** 
 
-—— 老子，《道德经》
+*— 老子，《道德经》*
 
 - **Unu Naskis du**
 - **Du naskis tri**
 - **Kaj tri naskis ĉion**
 
--- Laozi, "Daodejing"
+*- Laozi, "Daodejing"*
 
 **Pri Mi**
 
