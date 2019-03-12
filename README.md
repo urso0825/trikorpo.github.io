@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/urso0825/trikorpoproblemo.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **一生二**    
+- **二生三**    
+- **三生万物** 
 
-### Markdown
+—— 老子，《道德经》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Unu Naskis du**
+- **Du naskis tri**
+- **Kaj tri naskis ĉion**
 
-```markdown
-Syntax highlighted code block
+-- Laozi, "Daodejing"
 
-# Header 1
-## Header 2
-### Header 3
+**Pri Mi**
 
-- Bulleted
-- List
+Tiam kiam la vivo konsciis la ekziston de la misteroj de la universo, ĝi estas nur paŝo for de la finfina solvo al la misteroj. Ekzemple, vivoj sur terglobo, spertis pli ol 4 miliardojn da jaroj por unuafoje ekscii la ekziston de la misteroj de la universo. Sed de tiu momento ĝis via konstruado de la Einstein-ekvatoro nur estis malpli ol 400,000 jaroj. Interalie la plej kritika akceloperiodo de ĉi tiu procezo estas nur malpli ol 500 jaroj. Se ke la primitivulo rigardis plurminutojn je universo estas trovo de gemo, la tiel-nomita entuta evoluado de homa civilizacio nur estas inkluĝante preni ĝin.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/urso0825/trikorpoproblemo.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-- Citaĵo de Nirvano je Mateno (朝闻道), Liu Cixin
